@@ -20,3 +20,6 @@
  **Hospital Location**
   This dataset maps all of the hospitals in Allegheney County. [Hospital Locations](https://data.wprdc.org/dataset/hospitals/resource/2d9db439-8f85-4b6d-ab92-423a2ef9c7d9?view_id=2525c018-194b-4d2a-8790-17f2f51dc36d
  "Hospital Locations").
+  
+  # Repository Description 
+  In this repository you will find various datasets pertaining to the health of residence in Pittsburgh neighborhoods, and programs written in Python devoted to finding the least healthy neighborhood amongst them all. 
