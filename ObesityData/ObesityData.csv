@@ -1,0 +1,141 @@
+,stname,tractfips,2000 Tract,2010 Tract,MUNICIPALITY,Municipality,City Neighborhood,2006-2010 estimate of obesity
+1,Pennsylvania,42003010300,10300,,PITTSBURGH  ,Pittsburgh  ,Bluff,0.246935849
+2,Pennsylvania,42003020100,20100,,PITTSBURGH  ,Pittsburgh  ,Central-Business-District,0.668012041
+3,Pennsylvania,42003020300,20300,,PITTSBURGH  ,Pittsburgh  ,Strip-District,0.369996439
+4,Pennsylvania,42003030500,30500,,PITTSBURGH  ,Pittsburgh  ,Crawford-Roberts,0.488690884
+5,Pennsylvania,42003040200,40200,,PITTSBURGH  ,Pittsburgh  ,West-oakland,0.366390731
+6,Pennsylvania,42003040400,40400,,PITTSBURGH  ,Pittsburgh  ,North-oakland,0.155867454
+7,Pennsylvania,42003040500,40500,,PITTSBURGH  ,Pittsburgh  ,Central-Oakland,0.112780394
+8,Pennsylvania,42003040600,40600,,PITTSBURGH  ,Pittsburgh  ,Central-Oakland,0.144556151
+9,Pennsylvania,42003040900,40900,,PITTSBURGH  ,Pittsburgh  ,South-Oakland,0.281331416
+10,Pennsylvania,42003050100,50100,,PITTSBURGH  ,Pittsburgh  ,Middle-Hill,0.608099152
+11,Pennsylvania,42003050600,50600,,PITTSBURGH  ,Pittsburgh  ,Upper-Hill,0.455786185
+12,Pennsylvania,42003050900,50900,,PITTSBURGH  ,Pittsburgh  ,Bedford-Dwellings,0.636222228
+13,Pennsylvania,42003051000,51000,,PITTSBURGH  ,Pittsburgh  ,Terrace-Village,0.555072799
+14,Pennsylvania,42003051100,51100,,PITTSBURGH  ,Pittsburgh  ,Terrace-Village,0.793133039
+15,Pennsylvania,42003060300,60300,,PITTSBURGH  ,Pittsburgh  ,Lower-Lawrenceville,0.319568655
+16,Pennsylvania,42003060500,60500,,PITTSBURGH  ,Pittsburgh  ,Polish-Hill,0.320700606
+17,Pennsylvania,42003070300,70300,,PITTSBURGH  ,Pittsburgh  ,Shadyside,0.128451261
+18,Pennsylvania,42003070500,70500,,PITTSBURGH  ,Pittsburgh  ,Shadyside,0.130383004
+19,Pennsylvania,42003070600,70600,,PITTSBURGH  ,Pittsburgh  ,Shadyside,0.11853283
+20,Pennsylvania,42003070800,70800,,PITTSBURGH  ,Pittsburgh  ,Shadyside,0.134519846
+21,Pennsylvania,42003070900,70900,,PITTSBURGH  ,Pittsburgh  ,Shadyside,0.1267053
+22,Pennsylvania,42003080200,80200,,PITTSBURGH  ,Pittsburgh  ,Bloomfield,0.281425391
+23,Pennsylvania,42003080400,80400,,PITTSBURGH  ,Pittsburgh  ,Bloomfield,0.185609561
+24,Pennsylvania,42003080600,80600,,PITTSBURGH  ,Pittsburgh  ,Bloomfield,0.181223911
+25,Pennsylvania,42003080700,80700,,PITTSBURGH  ,Pittsburgh  ,Friendship,0.220125706
+26,Pennsylvania,42003080900,80900,,PITTSBURGH  ,Pittsburgh  ,Bloomfield,0.233013709
+27,Pennsylvania,42003090100,90100,,PITTSBURGH  ,Pittsburgh  ,Central-Lawrenceville,0.298582516
+28,Pennsylvania,42003090200,90200,,PITTSBURGH  ,Pittsburgh  ,Central-Lawrenceville,0.287296375
+29,Pennsylvania,42003090300,90300,,PITTSBURGH  ,Pittsburgh  ,Bloomfield,0.280485189
+30,Pennsylvania,42003100500,100500,,PITTSBURGH  ,Pittsburgh  ,Stanton-Heights,0.366929026
+31,Pennsylvania,42003101100,101100,,PITTSBURGH  ,Pittsburgh  ,Upper-Lawrenceville,0.33469413
+32,Pennsylvania,42003101400,101400,,PITTSBURGH  ,Pittsburgh  ,Morningside,0.275901608
+33,Pennsylvania,42003101600,101600,,PITTSBURGH  ,Pittsburgh  ,Garfield,0.576886305
+34,Pennsylvania,42003101700,101700,,PITTSBURGH  ,Pittsburgh  ,Garfield,0.45057975
+35,Pennsylvania,42003101800,101800,,PITTSBURGH  ,Pittsburgh  ,Stanton-Heights,0.28363609
+36,Pennsylvania,42003110200,110200,,PITTSBURGH  ,Pittsburgh  ,Highland-Park,0.243037233
+37,Pennsylvania,42003110600,110600,,PITTSBURGH  ,Pittsburgh  ,Highland-Park,0.217419795
+38,Pennsylvania,42003111300,111300,,PITTSBURGH  ,Pittsburgh  ,East-Liberty,0.414946833
+39,Pennsylvania,42003111400,111400,,PITTSBURGH  ,Pittsburgh  ,Garfield,0.547886004
+40,Pennsylvania,42003111500,111500,,PITTSBURGH  ,Pittsburgh  ,East-Liberty,0.445041326
+41,Pennsylvania,42003120400,120400,,PITTSBURGH  ,Pittsburgh  ,Larimer,0.560447807
+42,Pennsylvania,42003120700,120700,,PITTSBURGH  ,Pittsburgh  ,Homewood-West,0.565709871
+43,Pennsylvania,42003120800,120800,,PITTSBURGH  ,Pittsburgh  ,Larimer,0.47467107
+44,Pennsylvania,42003130100,130100,,PITTSBURGH  ,Pittsburgh  ,Homewood-North,0.619584038
+45,Pennsylvania,42003130200,130200,,PITTSBURGH  ,Pittsburgh  ,Homewood-North,0.573265754
+46,Pennsylvania,42003130300,130300,,PITTSBURGH  ,Pittsburgh  ,Homewood-South,0.558808603
+47,Pennsylvania,42003130400,130400,,PITTSBURGH  ,Pittsburgh  ,Homewood-South,0.660584734
+48,Pennsylvania,42003130600,130600,,PITTSBURGH  ,Pittsburgh  ,East Hills,0.562136738
+49,Pennsylvania,42003140100,140100,,PITTSBURGH  ,Pittsburgh  ,Squirrel-Hill North,0.080288025
+50,Pennsylvania,42003140200,140200,,PITTSBURGH  ,Pittsburgh  ,Squirrel-Hill North,0.134710419
+51,Pennsylvania,42003140300,140300,,PITTSBURGH  ,Pittsburgh  ,Squirrel-Hill North,0.162825512
+52,Pennsylvania,42003140400,140400,,PITTSBURGH  ,Pittsburgh  ,Point-Breeze,0.148783612
+53,Pennsylvania,42003140500,140500,,PITTSBURGH  ,Pittsburgh  ,Point-Breeze North,0.357949761
+54,Pennsylvania,42003140600,140600,,PITTSBURGH  ,Pittsburgh  ,Point-Breeze,0.1862044
+55,Pennsylvania,42003140800,140800,,PITTSBURGH  ,Pittsburgh  ,Squirrel-Hill South,0.159693253
+56,Pennsylvania,42003141000,141000,,PITTSBURGH  ,Pittsburgh  ,Regent-Square,0.160133394
+57,Pennsylvania,42003141100,141100,,PITTSBURGH  ,Pittsburgh  ,Swisshelm-Park,0.24942228
+58,Pennsylvania,42003141300,141300,,PITTSBURGH  ,Pittsburgh  ,Squirrel-Hill South,0.164995723
+59,Pennsylvania,42003141400,141400,,PITTSBURGH  ,Pittsburgh  ,Squirrel-Hill South,0.194095224
+60,Pennsylvania,42003151500,151500,562900,PITTSBURGH  ,Pittsburgh  ,Hazelwood,0.399853175
+61,Pennsylvania,42003151600,151600,,PITTSBURGH  ,Pittsburgh  ,Greenfield,0.296249604
+62,Pennsylvania,42003151700,151700,,PITTSBURGH  ,Pittsburgh  ,Greenfield,0.230732413
+63,Pennsylvania,42003160800,160800,,PITTSBURGH  ,Pittsburgh  ,Southside-Slopes,0.303620654
+64,Pennsylvania,42003160900,160900,,PITTSBURGH  ,Pittsburgh  ,Southside-Flats,0.250236692
+65,Pennsylvania,42003170200,170200,,PITTSBURGH  ,Pittsburgh  ,Southside-Flats,0.244124264
+66,Pennsylvania,42003170600,170600,,PITTSBURGH  ,Pittsburgh  ,Southside-Slopes,0.276238992
+67,Pennsylvania,42003180300,180300,,PITTSBURGH  ,Pittsburgh  ,Allentown,0.353924826
+68,Pennsylvania,42003180700,180700,,PITTSBURGH  ,Pittsburgh  ,Mount-Washington,0.284661545
+69,Pennsylvania,42003190300,190300,,PITTSBURGH  ,Pittsburgh  ,Mount-Washington,0.239971797
+70,Pennsylvania,42003191100,191100,,PITTSBURGH  ,Pittsburgh  ,Duquesne-Heights,0.248010116
+71,Pennsylvania,42003191400,191400,,PITTSBURGH  ,Pittsburgh  ,Mount-Washington,0.264857444
+72,Pennsylvania,42003191500,191500,,PITTSBURGH  ,Pittsburgh  ,Mount-Washington,0.283163115
+73,Pennsylvania,42003191600,191600,,PITTSBURGH  ,Pittsburgh  ,Beechview,0.295784557
+74,Pennsylvania,42003191700,191700,,PITTSBURGH  ,Pittsburgh  ,Brookline,0.288113416
+75,Pennsylvania,42003191800,191800,,PITTSBURGH  ,Pittsburgh  ,Brookline,0.271680325
+76,Pennsylvania,42003191900,191900,,PITTSBURGH  ,Pittsburgh  ,Brookline,0.281736013
+77,Pennsylvania,42003192000,192000,,PITTSBURGH  ,Pittsburgh  ,Beechview,0.281814181
+78,Pennsylvania,42003202200,202200,,PITTSBURGH  ,Pittsburgh  ,Sheraden,0.308735055
+79,Pennsylvania,42003202300,202300,,PITTSBURGH  ,Pittsburgh  ,Banksville,0.239786459
+80,Pennsylvania,42003210700,210700,,PITTSBURGH  ,Pittsburgh  ,Manchester,0.498043254
+81,Pennsylvania,42003220600,220600,,PITTSBURGH  ,Pittsburgh  ,Central-Northside,0.397141353
+82,Pennsylvania,42003240600,240600,,PITTSBURGH  ,Pittsburgh  ,Troy-Hill,0.311833933
+83,Pennsylvania,42003241200,241200,,PITTSBURGH  ,Pittsburgh  ,Spring-Garden,0.311407872
+84,Pennsylvania,42003250300,250300,,PITTSBURGH  ,Pittsburgh  ,Central-Northside,0.487120872
+85,Pennsylvania,42003250700,250700,,PITTSBURGH  ,Pittsburgh  ,California-Kirkbride,0.771046408
+86,Pennsylvania,42003250900,250900,,PITTSBURGH  ,Pittsburgh  ,Fineview,0.499128646
+87,Pennsylvania,42003260200,260200,,PITTSBURGH  ,Pittsburgh  ,Perry-North,0.315350013
+88,Pennsylvania,42003260700,260700,,PITTSBURGH  ,Pittsburgh  ,Perry-North,0.327274513
+89,Pennsylvania,42003260900,260900,,PITTSBURGH  ,Pittsburgh  ,Northview Heights,0.92293244
+90,Pennsylvania,42003261200,261200,,PITTSBURGH  ,Pittsburgh  ,Summer-Hill,0.302258313
+91,Pennsylvania,42003261400,261400,,PITTSBURGH  ,Pittsburgh  ,Perry-South,0.495056886
+92,Pennsylvania,42003261500,261500,,PITTSBURGH  ,Pittsburgh  ,Perry-South,0.411792085
+93,Pennsylvania,42003262000,262000,,PITTSBURGH  ,Pittsburgh  ,Spring-Hill-Cityview,0.335105173
+94,Pennsylvania,42003270100,270100,,PITTSBURGH  ,Pittsburgh  ,Brighton-Heights,0.297589356
+95,Pennsylvania,42003270300,270300,,PITTSBURGH  ,Pittsburgh  ,Brighton Heights,0.295852594
+96,Pennsylvania,42003270400,270400,,PITTSBURGH  ,Pittsburgh  ,Marshall-Shadeland,0.606853235
+97,Pennsylvania,42003270800,270800,,PITTSBURGH  ,Pittsburgh  ,Brighton-Heights,0.292287303
+98,Pennsylvania,42003271500,271500,,PITTSBURGH  ,Pittsburgh  ,Marshall-Shadeland,0.353353216
+99,Pennsylvania,42003281400,281400,,PITTSBURGH  ,Pittsburgh  ,Crafton-Heights,0.344212543
+100,Pennsylvania,42003281500,281500,,PITTSBURGH  ,Pittsburgh  ,Crafton-Heights,0.293820022
+101,Pennsylvania,42003290100,290100,,PITTSBURGH  ,Pittsburgh  ,Carrick,0.307687359
+102,Pennsylvania,42003290200,290200,,PITTSBURGH  ,Pittsburgh  ,Carrick,0.310517328
+103,Pennsylvania,42003290400,290400,,PITTSBURGH  ,Pittsburgh  ,Carrick,0.296869432
+104,Pennsylvania,42003300100,300100,,PITTSBURGH  ,Pittsburgh  ,Knoxville,0.390726631
+105,Pennsylvania,42003310200,310200,,PITTSBURGH  ,Pittsburgh  ,Lincoln-Place,0.308693843
+106,Pennsylvania,42003310300,310300,,PITTSBURGH  ,Pittsburgh  ,New-Homestead,0.316983455
+107,Pennsylvania,42003320400,320400,,PITTSBURGH  ,Pittsburgh  ,Overbrook,0.310046649
+108,Pennsylvania,42003320600,320600,,PITTSBURGH  ,Pittsburgh  ,Brookline,0.279139614
+109,Pennsylvania,42003320700,320700,,PITTSBURGH  ,Pittsburgh  ,Overbrook,0.294503447
+365,Pennsylvania,42003561600,160300,561600,PITTSBURGH  ,Pittsburgh  ,Arlington,0.334520462
+366,Pennsylvania,42003561600,160400,561600,PITTSBURGH  ,Pittsburgh  ,Arlington-Heights,0.473120252
+367,Pennsylvania,42003561700,160600,561700,PITTSBURGH  ,Pittsburgh  ,Saint-Clair,0.699500402
+368,Pennsylvania,42003561700,160700,561700,PITTSBURGH  ,Pittsburgh  ,Mount-Oliver Neighborhood,0.380567299
+369,Pennsylvania,42003561900,120100,"561900, 980000 & 981800",PITTSBURGH  ,Pittsburgh  ,Lincoln-Lemington-Belmar,0.637099034
+370,Pennsylvania,42003562000,40300,562000 & 982200,PITTSBURGH  ,Pittsburgh  ,North-Oakland,0.070352811
+371,Pennsylvania,42003562300,150100,562300,PITTSBURGH  ,Pittsburgh  ,Hazelwood,0.371847244
+372,Pennsylvania,42003562300,150400,562300,PITTSBURGH  ,Pittsburgh  ,Glen-Hazel,0.383138055
+373,Pennsylvania,42003562400,180600,562400,PITTSBURGH  ,Pittsburgh  ,Bon-Air,0.289504665
+374,Pennsylvania,42003562400,180900,562400,PITTSBURGH  ,Pittsburgh  ,Beltzhoover,0.479978155
+375,Pennsylvania,42003562500,201700,562500,PITTSBURGH  ,Pittsburgh  ,Esplen,0.348333537
+376,Pennsylvania,42003562500,201800,562500,PITTSBURGH  ,Pittsburgh  ,Sheraden,0.348089355
+377,Pennsylvania,42003562600,201900,562600,PITTSBURGH  ,Pittsburgh  ,West-End,0.287903689
+378,Pennsylvania,42003562600,202000,562600,PITTSBURGH  ,Pittsburgh  ,Elliott,0.344055061
+379,Pennsylvania,42003562700,220100,562700,PITTSBURGH  ,Pittsburgh  ,Allegheny-West,0.20639897
+380,Pennsylvania,42003562700,220400,562700,PITTSBURGH  ,Pittsburgh  ,Allegheny-Center,0.313581335
+381,Pennsylvania,42003562800,280500,562800,PITTSBURGH  ,Pittsburgh  ,East-Carnegie,0.332559825
+382,Pennsylvania,42003562800,281200,562800,PITTSBURGH  ,Pittsburgh  ,Oakwood,0.268579214
+383,Pennsylvania,42003562900,310100,562900,PITTSBURGH  ,Pittsburgh  ,Hays,0.306539098
+384,Pennsylvania,42003563000,202100,563000,PITTSBURGH  ,Pittsburgh  ,Chartiers-City,0.438444683
+385,Pennsylvania,42003563000,280700,563000,PITTSBURGH  ,Pittsburgh  ,Windgap,0.340615473
+386,Pennsylvania,42003563000,280800,563000,PITTSBURGH  ,Pittsburgh  ,Fairywood,0.820311359
+387,Pennsylvania,42003563100,201600,563100,PITTSBURGH  ,Pittsburgh  ,Ridgemont,0.27678553
+388,Pennsylvania,42003563100,281100,563100,PITTSBURGH  ,Pittsburgh  ,Westwood,0.268105915
+389,Pennsylvania,42003563200,230400,563200,PITTSBURGH  ,Pittsburgh  ,East-Allegheny,0.388730745
+411,Pennsylvania,42003980000,120200,"561900, 980000 & 981800",PITTSBURGH  ,Pittsburgh  ,Lincoln-Lemington-Belmar,0.525315088
+412,Pennsylvania,42003980600,210800,980600,PITTSBURGH  ,Pittsburgh  ,Chateau,0.439386232
+413,Pennsylvania,42003980700,192100,980700,PITTSBURGH  ,Pittsburgh  ,South-Shore,0.354375073
+414,Pennsylvania,42003981200,220500,563200 & 981200,PITTSBURGH  ,Pittsburgh  ,North-Shore,0.12148674
+415,Pennsylvania,42003981800,120300,,PITTSBURGH  ,Pittsburgh  ,Lincoln-Lemington-Belmar,0.574293284
+416,Pennsylvania,42003982200,50700,562000 & 982200,PITTSBURGH  ,Pittsburgh  ,North-Oakland,0.138805552
