@@ -3,8 +3,8 @@
 ## Team Members
 1. Nick Phillips 
 - njp68@pitt.edu
-2. 
-- 
+2. Bryant Fleitas
+- BRF83@pitt.edu
 3.
 - 
 
