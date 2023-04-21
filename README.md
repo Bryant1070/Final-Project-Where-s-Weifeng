@@ -5,8 +5,8 @@
 - njp68@pitt.edu
 2. Bryant Fleitas
 - BRF83@pitt.edu
-3.
-- 
+3. Weifeng Song
+- wes102@pitt.edu
 
 **Obesity Dataset**
  This dataset provides the estimated rate of obesity of each neighborhood in Allegheney County. 
